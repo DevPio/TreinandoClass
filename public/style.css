@@ -1,0 +1,33 @@
+
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+   
+   
+  
+   
+}
+
+.card{
+    margin-top: 20px;
+}
+
+img{
+  height: 300px;
+}
+
+
+
+
+body{
+  background-color: #21272d91!important;
+}
+
+.card a{
+  position: relative;
+}
+
+element.style {
+  width: 0;
+}
